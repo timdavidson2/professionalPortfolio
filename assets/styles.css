@@ -1,0 +1,42 @@
+body {
+}
+
+.headings {
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  width: 400px;
+  margin: 20px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+}
+
+.btn {
+  background-color: green;
+  color: white;
+}
+
+.card-img-top {
+  height: 286px;
+  width: 286px;
+}
+
+#footer {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  background-color: green;
+  justify-content: space-around;
+}
+
+.footer-links {
+  margin: auto 40px;
+  color: white;
+}
