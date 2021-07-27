@@ -1,3 +1,6 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
 body {
   background-image: url(./images/mainBG.jpeg);
 }
@@ -10,6 +13,9 @@ p {
 
 .headings {
   text-align: center;
+  font-family: "Lato", sans-serif;
+  font-style: italic;
+  font-size: 50px;
 }
 
 .photo {
@@ -23,6 +29,8 @@ p {
 
 p {
   text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: large;
 }
 
 .btn {
@@ -33,6 +41,10 @@ p {
 .card-img-top {
   height: 286px;
   width: 286px;
+}
+
+.card-text {
+  color: black;
 }
 
 #footer {
