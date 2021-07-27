@@ -11,6 +11,10 @@ p {
   color: white;
 }
 
+.aboutMe, .projects{
+  text-decoration: underline;
+}
+
 .headings {
   text-align: center;
   font-family: "Lato", sans-serif;
