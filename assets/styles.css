@@ -1,4 +1,12 @@
+body {
+  background-image: url(./images/mainBG.jpeg);
+}
 
+h1,
+h2,
+p {
+  color: white;
+}
 
 .headings {
   text-align: center;
@@ -20,10 +28,6 @@ p {
 .btn {
   background-color: green;
   color: white;
-}
-
-.btn:hover{
-  color: antiquewhite;
 }
 
 .card-img-top {
