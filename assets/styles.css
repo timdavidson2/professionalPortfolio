@@ -18,7 +18,7 @@ p {
   text-decoration: none;
 }
 
-.resume:hover{
+.resume:hover {
   color: antiquewhite;
   text-decoration: none;
   font-size: 30px;
@@ -48,7 +48,7 @@ p {
 p {
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  font-size: large;
+  font-size: 2rem;
 }
 
 .btn {
@@ -81,8 +81,8 @@ p {
 /* MEDIA QUERIES */
 
 @media (max-width: 998px) {
-  .container{
+  .container {
     flex-direction: column;
     align-items: center;
   }
- }
+}
