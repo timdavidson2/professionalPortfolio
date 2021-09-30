@@ -14,8 +14,8 @@ p {
 .resume {
   font-family: "Open Sans", sans-serif;
   color: white;
-  font-size: 1.5rem;
-  text-decoration: none;
+  font-size: 2rem;
+  /* text-decoration: none; */
 }
 
 .resume:hover {
