@@ -69,13 +69,13 @@ p {
   display: flex;
   height: 100px;
   width: 100%;
-  background-color: green;
+  /* background-color: green; */
   justify-content: space-around;
 }
 
 .footer-links {
   margin: auto 40px;
-  color: white;
+  color: black;
 }
 
 /* MEDIA QUERIES */
