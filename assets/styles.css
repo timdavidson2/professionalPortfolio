@@ -69,7 +69,7 @@ p {
   display: flex;
   height: 100px;
   width: 100%;
-  /* background-color: green; */
+  background-color: white;
   justify-content: space-around;
 }
 
